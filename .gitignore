@@ -107,5 +107,8 @@ venv.bak/
 ############
 # Additional
 v###########
+.DS_Store
 Links.txt
 NorskPetroleum-3.xlsx
+uk_oilprod.mpeg
+uk_oilprod.gif
